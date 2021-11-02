@@ -514,6 +514,7 @@
         </section> <!-- .detailBody End -->
       </div> <!-- #contents End -->
 
+
 	<script src="/resources/js/product_qna.js"></script>
     <script src="/resources/js/product_slide_slick.js"></script>
   
